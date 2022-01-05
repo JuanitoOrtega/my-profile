@@ -54,3 +54,6 @@ npm install dotenv-webpack -D
 
 # Para limpiar archivos innecesarios en dist
 npm install clean-webpack-plugin -D
+
+# Instalamos stylus
+npm install stylus -D
